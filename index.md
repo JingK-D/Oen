@@ -202,11 +202,3 @@
 							<li>您对本网站的评价：
 								<br/>
 									<textarea name="160" cols="80" placeholder="请输入非常好,没意见"></textarea>
-							</li>
-						</ul>
-				</fieldset>
-			</ul>
-		</fieldset>
-	</body>
-</html>
-
