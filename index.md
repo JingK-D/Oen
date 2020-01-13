@@ -201,4 +201,4 @@
 							<li>
 							<li>您对本网站的评价：
 								<br/>
-									<textarea name="160" cols="80" placeholder="请输入非常好,没意见......坤精心制作"></textarea>
+									<textarea name="160" cols="80" placeholder="请输入非常好,没意见.坤精心制作"></textarea>
