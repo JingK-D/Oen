@@ -1,4 +1,4 @@
-## 霍斯葛你爸爸的网页
+## 霍斯葛你爸爸的网页刚做的还热乎,叫爸爸让你吃屎,不然剁吊
 
 You can use the [editor on GitHub](https://github.com/JingK-D/Oen/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
