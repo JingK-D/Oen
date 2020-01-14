@@ -4,7 +4,7 @@
 		<title>个人信息调查表</title>
 	</head>
 	<body>
-		<img src="第十五节作业">
+		<img src="第十五节作业.jpg">
 		<fieldset>
 			<legend >个人信息</legend>
 			<ol>
