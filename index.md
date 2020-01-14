@@ -3,7 +3,7 @@
 		<meta charset="utf-8" />
 		<title>个人信息调查表</title>
 	</head>
-	<body>
+	<body bgcolor="aqua">
 		<fieldset>
 			<legend >个人信息</legend>
 			<ol>
