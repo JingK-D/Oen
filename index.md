@@ -3,7 +3,8 @@
 		<meta charset="utf-8" />
 		<title>个人信息调查表</title>
 	</head>
-	<body bgcolor="aqua">
+	<body>
+		<img src="第十五节作业">
 		<fieldset>
 			<legend >个人信息</legend>
 			<ol>
